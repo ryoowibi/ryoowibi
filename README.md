@@ -1,4 +1,4 @@
-<h2>Dedeo — Android & Backend Engineer</h2>
+<h2>ryoowibi — Android & Backend Engineer</h2>
 
 Software engineer based in Jakarta, Indonesia, with 2+ years shipping production Android apps and backend services.
 I work across the stack: native Android with Kotlin & Jetpack Compose, and APIs with Node.js and Laravel.
